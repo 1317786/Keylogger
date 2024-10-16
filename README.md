@@ -29,7 +29,7 @@ In this project, we will be developing a keylogger using C# and the .NET framewo
 <h2>Demo:</h2>
 
 <p align="center">
-Code for python script that will send out the customized email, with 2 emails of mine acting as sender and receiver of this email: <br/>
+In this concise demonstration, we initiate the keylogger to observe its real-time tracking capabilities. The video begins with the activation of the keylogger, followed by the opening of a Notepad window where I type sample text. Subsequently, I conduct a Google search to illustrate the keylogger’s ability to record browser interactions. The demo progresses with an attempt to log into a social media platform, highlighting the keylogger’s effectiveness in capturing sensitive input such as passwords—which appear in the keylogger's logs but remain concealed on the login screen. The demonstration concludes by revealing the log file where all keystrokes are securely recorded, showcasing the comprehensive surveillance capacity of the keylogger.<br/>
 
 <br />
 
