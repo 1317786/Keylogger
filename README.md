@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this project, we will be developing a Python script designed to automate the sending of emails. The objective is to construct a tool that allows for easy composition and dispatching of emails, complete with capabilities for attaching files and customizing sender and recipient details. This exercise serves as an essential introduction to working with Python’s email handling capabilities, leveraging the smtplib library to enhance communication efficiency and understand the basics of network protocols in software development. <br />
+In this project, we will be developing a keylogger using C# and the .NET framework to capture keystrokes in real-time. The objective is to utilize the Windows API, specifically the 'SetWindowsHookEx' function, to hook into the keyboard input at a low level and log the captured keystrokes into a hidden file using C#'s file handling capabilities. This exercise will serve as an introduction to systems programming in C#, with a focus on interacting with Windows-level APIs, event-driven programming, and managing file input/output operations efficiently. <br />
 
 
 <h2>Languages and Utilities Used</h2>
@@ -15,9 +15,15 @@ In this project, we will be developing a Python script designed to automate the 
 
 <h2>Takeaways</h2>
 
-- <b>Development and Implementation of Python Email Automation</b>: Successfully developed a Python script that automates email sending using the smtplib library. This project demonstrated proficiency in Python by implementing email composition and dispatching functionality, including the ability to attach files and customize messages. Advanced Python skills were enhanced through integrating network protocols, contributing to effective automated communication solutions.
+- <b>Hands-On Application of Windows API Integration</b>: Successfully implemented a C# keylogger using the Windows API, specifically through the 'SetWindowsHookEx' function to capture keyboard inputs at a low level. This project showcased proficiency in C# by employing the Windows API for real-time keylogging, deepening understanding of systems programming.
 
-- <b>Practical Experience with Email Handling in Python</b>: Gained hands-on experience in automating email communication processes, emphasizing the practical use of Python in real-world applications. This project highlighted the importance of understanding email protocols and security considerations such as handling credentials and ensuring safe message transmission in automation workflows.
+- <b>File Handling for Efficient Logging</b>: Gained practical experience in utilizing C#’s file handling capabilities to log captured keystrokes securely into a hidden file. This reinforced file I/O concepts and the importance of efficiently managing data during continuous input monitoring tasks.
+  
+- <b>Security Awareness and Ethical Considerations</b>: Enhanced awareness of the ethical implications associated with keylogging, learning the dual-use nature of such tools in cybersecurity and recognizing the importance of transparency and ethical use of software in monitoring environments.
+
+
+
+
 
 
 <h2>Program walk-through:</h2>
