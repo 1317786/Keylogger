@@ -41,6 +41,7 @@ Successful execution of script resulting in custom email being sent out with a m
 
 
 
+https://github.com/user-attachments/assets/f32b1161-d3ff-47e8-a5f8-b3c3c2110812
 
 
 
