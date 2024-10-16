@@ -26,18 +26,12 @@ In this project, we will be developing a keylogger using C# and the .NET framewo
 
 
 
-<h2>Program walk-through:</h2>
+<h2>Demo:</h2>
 
 <p align="center">
 Code for python script that will send out the customized email, with 2 emails of mine acting as sender and receiver of this email: <br/>
-<img src="code for emailer.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 
-<p align="center">
-Successful execution of script resulting in custom email being sent out with a message and link contained in the body: <br/>
-<img src="verification of email being sent.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
 
 
 
@@ -48,12 +42,3 @@ https://github.com/user-attachments/assets/f32b1161-d3ff-47e8-a5f8-b3c3c2110812
 </p>
 
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
